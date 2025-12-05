@@ -28,32 +28,50 @@ La plateforme vise à :
 • **réduire les coûts** des équipes techniques (scénographes, régisseurs, chefs de chantier, ateliers, prestataires, écoles, associations),
 • **professionnaliser la filière du réemploi** dans les secteurs du spectacle, du cinéma, de l’événementiel et des arts visuels.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ---
 
 ## **3. Persona**
 
-### Persona 1 — Vincent, régisseur général
+### **Persona 1** - Vincent, régisseur général
 
 Besoin : vider rapidement une salle ou un entrepôt.
 Problème : pas d’outil fiable pour proposer des matériaux.
 Attente : publier vite, trouver des preneurs proches.
 
-### Persona 2 — Julie, scénographe / étudiante en arts
+### **Persona 2** - Julie, scénographe / étudiante en arts
 
 Besoin : trouver des matériaux à bas prix.
 Problème : aucune visibilité sur les “sorties de stock”.
 Attente : filtrer par type, lieu, quantité, récupérer facilement.
 
-### Persona 3 — Samir, chef de chantier
+### **Persona 3** - Samir, chef de chantier
 
 Besoin : anticiper ses besoins (bois, métal, panneaux).
 Problème : délais et tarifs des fournisseurs.
 Attente : base locale et réactive.
 
-### Persona 4 — Associations / tiers-lieux / fablabs
+### **Persona 4** - Associations / tiers-lieux / fablabs
 
 Besoin : récupérer gratuitement ou à bas prix.
 Attente : annonces claires et volumes raisonnables.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
@@ -67,19 +85,31 @@ Le cœur du projet est la **fluidification logistique** entre des équipes press
 
 ## **5. Contraintes & Enjeux juridiques**
 
-Les secteurs concernés suivent des règles diverses concernant la **propriété**, la **sécurité**, la **responsabilité** et le **statut de déchet** (Code de l’environnement, loi AGEC).
+Les secteurs concernés suivent des règles concernant la **propriété**, la **sécurité**, la **responsabilité** et le **statut de déchet** (Code de l’environnement, loi AGEC).
 
 La plateforme :
 • n’assure **aucun stockage, transport, certification, vérification**,
 • ne prend **pas possession** des matériaux,
 • s’appuie sur une **auto-déclaration** de l’annonceur (réutilisable / non déchet),
 • permet seulement d’annuler une annonce en cas de non-retrait.
-
-Ce périmètre limité sécurise juridiquement le projet RNCP6.
+*Ce périmètre limité sécurise juridiquement le projet RNCP6.*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
 ## **6. Fonctionnalités prévues pour la phase RNCP6**
+## *MosCow*
 
 ### Must Have
 
@@ -114,6 +144,19 @@ Ce périmètre limité sécurise juridiquement le projet RNCP6.
 • Logistique : transport, stockage, manutention
 • Garantie sur les matériaux
 • Vérification approfondie de l’identité professionnelle
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
