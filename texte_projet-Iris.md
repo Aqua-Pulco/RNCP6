@@ -1,165 +1,132 @@
 
 ---
 
-# **FICHE PROJET**
+# **FICHE PROJET – MaterNova – Iris LEGENDRE YOLAL**
 
 ## **1. Contexte et problématique**
 
-Les secteurs de **l’événementiel**, des **chantiers** et de la **production culturelle** génèrent chaque année des volumes massifs de matériaux : bois, métal, tissus, structures, décors, mobilier technique. Une grande partie de ces matériaux, parfaitement réutilisables, est **jetée, stockée sans solution, bennée ou incinérée**, faute d’un circuit simple, rapide et fiable pour les proposer à d’autres acteurs.
+Les secteurs de **l’événementiel**, des **chantiers**, du **spectacle vivant**, du **cinéma** et de la **production culturelle** génèrent chaque année des volumes massifs de matériaux : bois, métal, tissus, structures, décors, mobilier technique. Faute de temps, de tri possible ou de solutions de redistribution rapides, ces matériaux sont **évacués en benne, dirigés vers des centres de tri où le mélange des flux les rend non recyclables, puis majoritairement incinérés**. Leur potentiel de réemploi disparaît dès leur entrée dans la filière déchets.
 
-Les professionnels sont confrontés à un paradoxe permanent :
-- **ils cherchent à réduire leurs coûts et leur impact environnemental**,
-- mais **ils manquent d’outils adaptés pour redistribuer ou récupérer des matériaux localement**.
+Les professionnels cherchent à réduire leurs coûts et leur impact environnemental, mais manquent d’outils adaptés pour redistribuer ou récupérer des matériaux localement dans les délais imposés par les productions.
 
 L’absence d’une plateforme centralisée dédiée à ces matériaux entraîne :
-
-• du **gaspillage massif**,
-• des **coûts supplémentaires** pour les metteurs en scène, régisseurs, chefs de chantier, chefs déco, constructeurs plateau, équipes scénographiques ou techniques.
-Ces surcoûts proviennent principalement de l’achat de matériaux neufs faute de solutions de récupération disponibles rapidement, de la location d’espaces de stockage temporaires, du transport inutile, de la gestion payante des bennes et du temps perdu à chercher des alternatives viables.
+• un **gaspillage massif**,
+• des **surcoûts** pour les régisseurs, chefs de chantier, chefs déco, constructeurs plateau, ateliers scénographiques, prestataires événementiels, compagnies, écoles, associations (achats neufs, stockage temporaire, transport inutile, gestion payante des bennes, temps perdu),
 • une **empreinte carbone inutile**,
-• et une **perte d’opportunités** pour des structures qui pourraient bénéficier de ces ressources (associations, étudiants, petits prestataires, artisans, tiers-lieux…).
+• une **perte d’opportunités** pour les structures fragiles ou à petit budget.
 
 ---
 
 ## **2. Objectif du projet**
 
-Créer une plateforme web/mobile de type **Leboncoin spécialisé**, permettant la **mise en relation entre structures qui souhaitent céder ou récupérer du matériel de production**.
+Créer une plateforme web/mobile de type **Leboncoin spécialisé**, permettant la **mise en relation entre structures professionnelles, ateliers, associations, écoles et étudiants en arts** souhaitant céder ou récupérer du matériel de production.
 
 La plateforme vise à :
-• **réduire les déchets** issus des chantiers et productions événementielles,
+• **réduire les déchets** issus des productions scénographiques et événementielles,
 • **faciliter la réutilisation locale**,
 • **donner une seconde vie** à des matériaux coûteux et polluants,
-• **réduire les coûts des équipes techniques** (chefs de chantier, régisseurs, scénographes, chefs déco, constructeurs plateau, prestataires événementiels, ateliers, petites compagnies, écoles d'art, associations). La réduction des coûts repose notamment sur la diminution des achats neufs, la réduction du stockage, la diminution des transports et la mise à disposition immédiate de matériaux réutilisables.
-• **professionnaliser la filière de la récup’** avec un outil réellement pensé pour leurs usages.
+• **réduire les coûts** des équipes techniques (scénographes, régisseurs, chefs de chantier, ateliers, prestataires, écoles, associations),
+• **professionnaliser la filière du réemploi** dans les secteurs du spectacle, du cinéma, de l’événementiel et des arts visuels.
 
 ---
-<br>
-<br>
-<br>
-<br>
-<br>
 
-## **3. Publics concernés (personae réels issus du terrain)**
+## **3. Persona**
 
-### **Persona 1 — Vincent, régisseur général**
+### Persona 1 — Vincent, régisseur général
 
-• Besoin : vider rapidement une salle / un entrepôt après un événement, sans perdre de temps.
-• Problème : pas d’outil centralisé pour proposer des matériaux ; tout part en benne faute de visibilité.
-• Attente : publier vite, être sûr d’être contacté, trouver des preneurs proches.
+Besoin : vider rapidement une salle ou un entrepôt.
+Problème : pas d’outil fiable pour proposer des matériaux.
+Attente : publier vite, trouver des preneurs proches.
 
-### **Persona 2 — Julie, scénographe / décoratrice / étudiante en arts**
+### Persona 2 — Julie, scénographe / étudiante en arts
 
-• Besoin : trouver des matériaux à bas prix pour monter des projets, sans exploser son budget.
-• Problème : aucune visibilité sur les “sorties de stock” des pros.
-• Attente : filtrer par type/lieu/quantité, réserver, récupérer facilement.
+Besoin : trouver des matériaux à bas prix.
+Problème : aucune visibilité sur les “sorties de stock”.
+Attente : filtrer par type, lieu, quantité, récupérer facilement.
 
-### **Persona 3 — Samir, chef de chantier**
+### Persona 3 — Samir, chef de chantier
 
-• Besoin : anticiper des besoins de matériaux simples (bois, panneaux, métal).
-• Problème : les fournisseurs imposent délais et coûts élevés.
-• Attente : accès à une base locale et réactive.
+Besoin : anticiper ses besoins (bois, métal, panneaux).
+Problème : délais et tarifs des fournisseurs.
+Attente : base locale et réactive.
 
-### **Persona 4 — Associations / tiers-lieux / fablabs**
+### Persona 4 — Associations / tiers-lieux / fablabs
 
-• Besoin : récupérer gratuitement ou à bas prix.
-• Attente : éviter les annonces floues et les volumes démesurés.
+Besoin : récupérer gratuitement ou à bas prix.
+Attente : annonces claires et volumes raisonnables.
 
 ---
 
 ## **4. Proposition de valeur**
 
-Une plateforme pensée *pour le terrain* :
-- publication rapide (photos + dimensions + état),
-- géolocalisation,
-- tri par taille/quantité/type de matériaux,
-- validation simple entre vendeur/donneur et récupérateur.
-
-Le cœur du produit n’est pas le marketplace en soi, mais la **fluidification logistique** entre des gens qui n’ont pas le temps, et des structures qui manquent de moyens.
+Une plateforme pensée pour le terrain :
+publication rapide (photos + dimensions + état), géolocalisation, tri par types de matériaux, validation simple entre structures.
+Le cœur du projet est la **fluidification logistique** entre des équipes pressées par le temps et des structures manquant de moyens.
 
 ---
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## **5. Contraintes & Enjeux juridiques**
 
-Les secteurs concernés (événementiel, chantier, spectacle, écoles, prestataires) suivent des règles très hétérogènes concernant :
+Les secteurs concernés suivent des règles diverses concernant la **propriété**, la **sécurité**, la **responsabilité** et le **statut de déchet** (Code de l’environnement, loi AGEC).
 
-• la **propriété** des matériaux (prestataire, producteur, maître d’ouvrage),
-• la **sécurité** (normes, charges, résistance, incendie),
-• la **responsabilité en cas d’incident**,
-• le **statut “déchet”** dès qu’un producteur déclare vouloir se défaire d’un matériau (Code de l’environnement, loi AGEC).
+La plateforme :
+• n’assure **aucun stockage, transport, certification, vérification**,
+• ne prend **pas possession** des matériaux,
+• s’appuie sur une **auto-déclaration** de l’annonceur (réutilisable / non déchet),
+• permet seulement d’annuler une annonce en cas de non-retrait.
 
-La plateforme **ne peut pas**, dans le cadre d’un projet RNCP6, gérer ces complexités juridiques.
-
-Pour sécuriser et cadrer sans s’engager juridiquement :
-
-* La plateforme intervient uniquement comme **intermédiaire** de mise en relation, sans stockage, transport, vérification ou certification.
-* L’annonceur déclare lui-même que le matériau est **réutilisable** et **non assimilé juridiquement à un déchet**.
-* La plateforme ne prend pas possession des matériaux et ne peut être tenue responsable de leur conformité.
-* La validation des utilisateurs reste simple : création de compte, SIRET optionnel, auto-déclaration d’activité.
-* En cas de **non-retrait** (la personne ne vient pas), la plateforme permet simplement d’annuler l’annonce ou de la remettre en ligne. Aucune gestion de litige, de stockage ou de responsabilité n’est incluse.
-
-Cette section vise à **montrer que le projet est maîtrisé** et que son périmètre est volontairement limité.
+Ce périmètre limité sécurise juridiquement le projet RNCP6.
 
 ---
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+## **6. Fonctionnalités prévues pour la phase RNCP6**
 
-# MosCow 
+### Must Have
 
-## **6. Fonctionnalités prévues pour la phase RNCP6 (scope réaliste)**
-
-### **Must Have**
-
-• Compte utilisateur simple (pro / particulier)
+• Compte utilisateur (structures professionnelles, ateliers, écoles, associations)
 • Création d’annonce : photos, dimensions, type, état, quantité
 • Géolocalisation + recherche
-• Mise en relation (contact / message)
+• Mise en relation (contact)
 • Page détail d’annonce
 • Interface mobile-first
 
-### **Should Have**
+### Should Have
 
-• Catégorisation par secteur (événementiel / chantier / spectacle)
+• Catégorisation par secteur (spectacle vivant / événementiel / cinéma / chantier)
 • Système de favoris
-• Dashboard simple pour gérer ses annonces
+• Dashboard simple
 
-### **Could Have**
+### Could Have
 
-• Alertes automatiques selon besoins
+• Alertes automatiques
 • Historique
-• Fiabilité / réputation utilisateur (simple)
+• Réputation utilisateur (simple)
+• Système de valorisation pour les professionnels (score / badges liés au volume réemployé)
 
 ---
 
 ## **7. Won’t Have**
 
-Pour des raisons de périmètre RNCP6 et de complexité juridique/logistique, la version MVP **n’intégrera pas** :
-
-• Vérification du statut exact des matériaux (déchet / non déchet).
-• Contrôle des normes de sécurité, conformité ou résistance.
-• Certification ou validation juridique des entreprises ou professionnels.
-• Gestion des litiges : non-retrait, dommages, accidents.
-• Transport, stockage ou logistique intermédiaire.
-• Garantie légale sur les matériaux.
-• Vérification approfondie de l’identité professionnelle (hors auto-déclaration).
-
-**Justification :**
-Ces aspects nécessitent des compétences juridiques, assurantielles et réglementaires hors périmètre RNCP6. Le MVP se limite à un rôle de mise en relation, comparable à un site d’annonces spécialisé, ce qui permet d’avancer sur un terrain réaliste, sécurisé et cohérent.
+• Vérification du statut exact des matériaux (déchet / non déchet)
+• Contrôle des normes ou résistances
+• Certification juridique des utilisateurs
+• Gestion des litiges
+• Logistique : transport, stockage, manutention
+• Garantie sur les matériaux
+• Vérification approfondie de l’identité professionnelle
 
 ---
 
+📌 **MVP attendu (validé par l’école)**
+→ **Authentification + CRUD matériaux + affichage en liste sur l’accueil**
 
+📌 **Stack technique (à ajouter dans Moodle)**
+
+* Next.js 15
+* TypeScript
+* Tailwind
+* PostgreSQL (Neon)
+* Drizzle ORM
+* BetterAuth
+
+---
