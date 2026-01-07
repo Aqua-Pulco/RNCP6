@@ -1,0 +1,17 @@
+
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" stroke="#000" stroke-width="2" stroke-linejoin="round">
+  <!-- Face gauche -->
+  <polygon points="40,90 40,40 70,25 70,75" />
+  
+  <!-- Face basse -->
+  <polygon points="40,90 70,75 110,95 80,110" />
+  
+  <!-- Face verticale droite -->
+  <polygon points="70,25 110,45 110,95 70,75" />
+
+  <!-- Retour vertical haut -->
+  <polygon points="70,25 70,10 110,30 110,45" />
+
+  <!-- Trait interne (angle L) -->
+  <polyline points="70,75 70,40 110,60 110,95" />
+</svg>
