@@ -1,8 +1,8 @@
-# MaterNova — Personae utilisateurs
+# MaterNova - Personae utilisateurs
 
----
+<div style="page-break-after: always;"></div>
 
-## Persona 1 — Régisseur·euse général·e / Responsable de site
+## Persona 1 - Régisseur·euse général·e / Responsable de site
 
 ![Régisseur·euse général·e](images-personae/1_regisseuse_g.png)
 
@@ -30,9 +30,9 @@ Se débarrasser de matériaux encore utilisables sans perdre de temps ni génér
 ### Impacts sur la conception
 Ce persona justifie la priorité donnée à une création d’annonce rapide, à une interface mobile-first, à la réduction du nombre de champs obligatoires et à une présentation des informations clés directement visibles sur les cartes d’annonces, sans nécessiter l’ouverture de la fiche détaillée.
 
----
+<div style="page-break-after: always;"></div>
 
-## Persona 2 — Scénographe / Étudiant·e en arts ou design
+## Persona 2 - Scénographe / Étudiant·e en arts ou design
 
 ![Étudiant·e](images-personae/2_etudiant.png)
 
@@ -60,9 +60,9 @@ Trouver des matériaux exploitables sans recourir à l’achat neuf.
 ### Impacts sur la conception
 Ce persona justifie la mise en place de filtres limités à quelques critères métiers essentiels, ainsi que des descriptions organisées selon une structure fixe et identique pour toutes les annonces (type de matériau, quantité ou volume, état, contraintes de récupération), afin de permettre une consultation rapide sans surcharge d’informations.
 
----
+<div style="page-break-after: always;"></div>
 
-## Persona 3 — Chef·fe de chantier / Responsable technique
+## Persona 3 - Chef·fe de chantier / Responsable technique
 
 ![Chef·fe d’atelier](images-personae/3_chef_atelier.png)
 
@@ -90,9 +90,9 @@ Sécuriser rapidement des matériaux disponibles à moindre coût.
 ### Impacts sur la conception
 Ce persona justifie une présentation synthétique des annonces, la priorisation d’informations factuelles et mesurables (type, volume, localisation) et l’exclusion de formulations subjectives ou imprécises, afin d’éviter toute ambiguïté avant le déplacement.
 
----
+<div style="page-break-after: always;"></div>
 
-## Persona 4 — Associations / Tiers-lieux / Fablabs
+## Persona 4 - Associations / Tiers-lieux / Fablabs
 
 ![Association / Fablab / Tiers-lieu](images-personae/4_asso_fablab_tiers_lieu.png)
 
@@ -120,9 +120,9 @@ Accéder à des matériaux adaptés aux capacités du lieu et des équipes.
 ### Impacts sur la conception
 Ce persona justifie une interface volontairement simple, des annonces explicites, et une tolérance aux différents niveaux de maîtrise numérique, sans fonctionnalités complexes.
 
----
+<div style="page-break-after: always;"></div>
 
-## Persona 5 — Écoles et formations
+## Persona 5 - Écoles et formations
 *(arts, design, architecture, spectacle)*
 
 ![École](images-personae/5_ecole.png)
